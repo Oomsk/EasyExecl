@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 直接用map接收数据
  *
- * @author Jiaju Zhuang
+ * @author Omsk
  */
 
 @Slf4j
